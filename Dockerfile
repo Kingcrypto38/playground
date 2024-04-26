@@ -1,4 +1,4 @@
-FROM ubuntu:rolling
+FROM ubuntu:23.10
 
 ARG TERM
 ARG SHELL
